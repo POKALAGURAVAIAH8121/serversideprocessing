@@ -100,6 +100,7 @@ Area : <p id="result"></p>
 
 ## OUTPUT:
 
-![Screenshot 2023-05-15 095020](https://github.com/POKALAGURAVAIAH8121/serversideprocessing/assets/128034765/b72d489b-f51e-47fb-9bcb-49f1ee762955)
+![Screenshot 2023-05-15 095020](https://github.com/POKALAGURAVAIAH8121/serversideprocessing/assets/128034765/28c9567a-c933-4b98-af89-262d65d9356a)
+
 
 
